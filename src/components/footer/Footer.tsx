@@ -3,7 +3,7 @@ import './footer.scss'
 const Footer = () => {
     return (
         <div className='footer'>
-            <span>Subhash</span>
+            <span>Email:-  subhashc9786@gmail.com</span>
             <span>@ subhash Admin Dashboard</span>
         </div>
     )
